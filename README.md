@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- ⚡ Fun fact **I am a coffee addict ☕️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
