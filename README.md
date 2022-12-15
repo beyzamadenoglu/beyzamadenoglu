@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beyza🧚🏽‍♀️</h1>
-<h3 align="center">Software QA Engineer and Self-Learner Frontend Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 - 🔭 I’m currently working at **VodafoneTR**
 
