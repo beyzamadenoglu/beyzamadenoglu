@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **VodafoneTR**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Vue**
 
 
 <h3 align="left">Connect with me:</h3>
