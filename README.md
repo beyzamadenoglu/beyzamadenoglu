@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beyza🧚🏽‍♀️</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working at **VodafoneTR**
+- 🔭 I’m currently working at **Kafein Technology Solutions**
 
 - 🌱 I’m currently learning **React** and **Vue**
 
