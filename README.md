@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Kafein Technology Solutions**
 
-- 🌱 I’m currently learning **React** and **Vue**
+- 🌱 I’m currently developing products with **React**
 
 
 <h3 align="left">Connect with me:</h3>
